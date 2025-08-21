@@ -46,7 +46,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 </div>
 </div> -->
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> -->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
