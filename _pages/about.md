@@ -28,9 +28,9 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One first author work “Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition” is accepted by TMM. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -48,11 +48,11 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+[Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**. 
+
 [Efficient Multi-branch Segmentation Network for Situation Awareness in Autonomous Navigation](https://www.sciencedirect.com/science/article/pii/S0029801824010783). **Guan-Cheng Zhou**, Chen Cheng, Yan-zhou Chen. **Ocean Engineering (JCR Q1)** 302, 117741.
 
 <!-- SpaKnit: correlation subspace learning for integrating spatial multi-omics data, Mingxuan Li, Peisen Sun, Yisi Luo, **Guan-Cheng Zhou**, Xiaofeng Yang, Deyu Meng. under review. -->
-
-[Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**. 
 
 <!-- Multivariate Neural Directional Total Variation, Zelin Zeng, **Guan-Cheng Zhou**, Yisi Luo, Deyu Meng. under review. -->
 
