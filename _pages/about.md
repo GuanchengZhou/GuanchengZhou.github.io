@@ -72,7 +72,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 - [Design and implementation of STM32 communication transmission management system based on RTOS](https://kns.cnki.net/kcms2/article/abstract?v=xhAGsX4BfX7Y1lNpplHuupbZeS7rNsXUAdNrmI8a4BtKoDA3sEDNCA6WLAhI_dRAGQbvZCyiQVuKWJn_M25FEdi44BXdXU_z4HLg23Xgx99ivDrS4Mx5EBWRwMTN-2lV5eBMeQUP2bPeH2l1ACUZVDhlzcn2DZLSagmVfEhvZ7Ycu1FcXhpslQ==&uniplatform=NZKPT&language=CHS). **Guan-Cheng Zhou**, Dang-chao Li, Jia-ying Ye, Jian-lei Chang, Zhao-yang Hao. **Internet of Things Technologies**,2024,14(03).
 
-An unmanned ship surface cleaning device. **Guan-cheng Zhou**, Chen Cheng, Yan-zhou Chen, Yu-hang Wei, Zhao-yang Hao. **Utility Model Patent** (ZL 2023 2 2875376.4). 
+- An unmanned ship surface cleaning device. **Guan-cheng Zhou**, Chen Cheng, Yan-zhou Chen, Yu-hang Wei, Zhao-yang Hao. **Utility Model Patent** (ZL 2023 2 2875376.4). 
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
