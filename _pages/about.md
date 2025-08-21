@@ -29,7 +29,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One first author work “Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition” is accepted by TMM. 
+- *2025.08*: &nbsp;🎉🎉 One first author work “Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition” is accepted by TMM. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -79,11 +79,11 @@ An unmanned ship surface cleaning device. **Guan-cheng Zhou**, Chen Cheng, Yan-z
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2025.06* Outstanding Undergraduate Graduate.
 - *2025.06* Outstanding Graduation Thesis. 
-- *2021* Wuhan Donghu New Technology Development Zone Scholarship with Xi’an Jiaotong University
+- *2021* Wuhan Donghu New Technology Development Zone Scholarship with Xi’an Jiaotong University.
 
 # 📖 Educations
 - *2025.06 - now*, Ph.D, Xi'an Jiaotong University.
-- *2021.06 - 2025.06 *, B.S., Xi'an Jiaotong University.
+- *2021.06 - 2025.06*, B.S., Xi'an Jiaotong University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
