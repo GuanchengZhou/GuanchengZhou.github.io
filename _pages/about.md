@@ -46,17 +46,31 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> -->
 
-[Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**. 
 
-[Efficient Multi-branch Segmentation Network for Situation Awareness in Autonomous Navigation](https://www.sciencedirect.com/science/article/pii/S0029801824010783). **Guan-Cheng Zhou**, Chen Cheng, Yan-zhou Chen. **Ocean Engineering (JCR Q1)** 302, 117741.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF)
+
+**Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng
+
+**IEEE Transactions on Multimedia (JCR Q1)**
+
+[**Code**](https://github.com/GuanchengZhou/FTD-LIIF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<!-- - [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**.  -->
+
+- [Efficient Multi-branch Segmentation Network for Situation Awareness in Autonomous Navigation](https://www.sciencedirect.com/science/article/pii/S0029801824010783). **Guan-Cheng Zhou**, Chen Cheng, Yan-zhou Chen. **Ocean Engineering (JCR Q1)** 302, 117741.
 
 <!-- SpaKnit: correlation subspace learning for integrating spatial multi-omics data, Mingxuan Li, Peisen Sun, Yisi Luo, **Guan-Cheng Zhou**, Xiaofeng Yang, Deyu Meng. under review. -->
 
 <!-- Multivariate Neural Directional Total Variation, Zelin Zeng, **Guan-Cheng Zhou**, Yisi Luo, Deyu Meng. under review. -->
 
-[Design and implementation of STM32 communication transmission management system based on RTOS](https://kns.cnki.net/kcms2/article/abstract?v=xhAGsX4BfX7Y1lNpplHuupbZeS7rNsXUAdNrmI8a4BtKoDA3sEDNCA6WLAhI_dRAGQbvZCyiQVuKWJn_M25FEdi44BXdXU_z4HLg23Xgx99ivDrS4Mx5EBWRwMTN-2lV5eBMeQUP2bPeH2l1ACUZVDhlzcn2DZLSagmVfEhvZ7Ycu1FcXhpslQ==&uniplatform=NZKPT&language=CHS). **Guan-Cheng Zhou**, Dang-chao Li, Jia-ying Ye, Jian-lei Chang, Zhao-yang Hao. **Internet of Things Technologies**,2024,14(03).
+- [Design and implementation of STM32 communication transmission management system based on RTOS](https://kns.cnki.net/kcms2/article/abstract?v=xhAGsX4BfX7Y1lNpplHuupbZeS7rNsXUAdNrmI8a4BtKoDA3sEDNCA6WLAhI_dRAGQbvZCyiQVuKWJn_M25FEdi44BXdXU_z4HLg23Xgx99ivDrS4Mx5EBWRwMTN-2lV5eBMeQUP2bPeH2l1ACUZVDhlzcn2DZLSagmVfEhvZ7Ycu1FcXhpslQ==&uniplatform=NZKPT&language=CHS). **Guan-Cheng Zhou**, Dang-chao Li, Jia-ying Ye, Jian-lei Chang, Zhao-yang Hao. **Internet of Things Technologies**,2024,14(03).
 
 An unmanned ship surface cleaning device. **Guan-cheng Zhou**, Chen Cheng, Yan-zhou Chen, Yu-hang Wei, Zhao-yang Hao. **Utility Model Patent** (ZL 2023 2 2875376.4). 
 
