@@ -63,6 +63,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 </div>
 
 <!-- - [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**.  -->
+- [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://www.researchsquare.com/article/rs-6345712/latest). Kai Ye, Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng. Under review.
 
 - [Efficient Multi-branch Segmentation Network for Situation Awareness in Autonomous Navigation](https://www.sciencedirect.com/science/article/pii/S0029801824010783). **Guan-Cheng Zhou**, Chen Cheng, Yan-zhou Chen. **Ocean Engineering (JCR Q1)** 302, 117741.
 
