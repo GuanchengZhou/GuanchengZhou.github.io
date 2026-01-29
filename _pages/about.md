@@ -29,6 +29,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One first author work “Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory” is accepted by ICLR 2026. 
 - *2025.08*: &nbsp;🎉🎉 One first author work “Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition” is accepted by TMM. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -48,6 +49,15 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/main_pde9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory](https://openreview.net/forum?id=UJvkXnuozY)
+
+**Guancheng Zhou**, Zelin Zeng, Yisi Luo, Xie Qi, Deyu Meng
+
+**ICLR 2026**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
