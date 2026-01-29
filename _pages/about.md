@@ -50,7 +50,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/main_pde9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/main_pde9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory](https://openreview.net/forum?id=UJvkXnuozY)
