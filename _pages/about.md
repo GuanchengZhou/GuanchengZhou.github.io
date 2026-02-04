@@ -79,7 +79,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/spatialcoc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2026</div><img src='images/spatialcoc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://github.com/xjtu-omics/SpatialCOC)
