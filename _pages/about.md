@@ -57,10 +57,12 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 **Guancheng Zhou**, Zelin Zeng, Yisi Luo, Xie Qi, Deyu Meng
 
-**ICLR 2026**
+**ICLR**, 2026
 
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,24 +71,41 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng
 
-**IEEE Transactions on Multimedia**
+**IEEE Transactions on Multimedia**, 2026
 
 [**Code**](https://github.com/GuanchengZhou/FTD-LIIF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-<!-- - [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**.  -->
-- [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://www.researchsquare.com/article/rs-6345712/latest). Kai Ye, Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng. **Nature Communications**, 2026.
 
-- [Efficient Multi-branch Segmentation Network for Situation Awareness in Autonomous Navigation](https://www.sciencedirect.com/science/article/pii/S0029801824010783). **Guan-Cheng Zhou**, Chen Cheng, Yan-zhou Chen. **Ocean Engineering (JCR Q1)** 302, 117741.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/spatialcoc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://github.com/xjtu-omics/SpatialCOC)
+
+Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng, Kai Ye
+
+**Nature Communications**, 2026
+
+[**Code**](https://github.com/xjtu-omics/SpatialCOC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
+<!-- - [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**.  -->
+<!-- - [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://www.researchsquare.com/article/rs-6345712/latest). Kai Ye, Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng. **Nature Communications**. 2026. -->
+
+- [Efficient Multi-branch Segmentation Network for Situation Awareness in Autonomous Navigation](https://www.sciencedirect.com/science/article/pii/S0029801824010783). **Guan-Cheng Zhou**, Chen Cheng, Yan-zhou Chen. **Ocean Engineering (JCR Q1)** 302, 117741. 2024.
 
 <!-- SpaKnit: correlation subspace learning for integrating spatial multi-omics data, Mingxuan Li, Peisen Sun, Yisi Luo, **Guan-Cheng Zhou**, Xiaofeng Yang, Deyu Meng. under review. -->
 
 <!-- Multivariate Neural Directional Total Variation, Zelin Zeng, **Guan-Cheng Zhou**, Yisi Luo, Deyu Meng. under review. -->
 
-- [Design and implementation of STM32 communication transmission management system based on RTOS](https://kns.cnki.net/kcms2/article/abstract?v=xhAGsX4BfX7Y1lNpplHuupbZeS7rNsXUAdNrmI8a4BtKoDA3sEDNCA6WLAhI_dRAGQbvZCyiQVuKWJn_M25FEdi44BXdXU_z4HLg23Xgx99ivDrS4Mx5EBWRwMTN-2lV5eBMeQUP2bPeH2l1ACUZVDhlzcn2DZLSagmVfEhvZ7Ycu1FcXhpslQ==&uniplatform=NZKPT&language=CHS). **Guan-Cheng Zhou**, Dang-chao Li, Jia-ying Ye, Jian-lei Chang, Zhao-yang Hao. **Internet of Things Technologies**,2024,14(03).
+- [Design and implementation of STM32 communication transmission management system based on RTOS](https://kns.cnki.net/kcms2/article/abstract?v=xhAGsX4BfX7Y1lNpplHuupbZeS7rNsXUAdNrmI8a4BtKoDA3sEDNCA6WLAhI_dRAGQbvZCyiQVuKWJn_M25FEdi44BXdXU_z4HLg23Xgx99ivDrS4Mx5EBWRwMTN-2lV5eBMeQUP2bPeH2l1ACUZVDhlzcn2DZLSagmVfEhvZ7Ycu1FcXhpslQ==&uniplatform=NZKPT&language=CHS). **Guan-Cheng Zhou**, Dang-chao Li, Jia-ying Ye, Jian-lei Chang, Zhao-yang Hao. **Internet of Things Technologies**,2024,14(03). 2024.
 
-- An unmanned ship surface cleaning device. **Guan-cheng Zhou**, Chen Cheng, Yan-zhou Chen, Yu-hang Wei, Zhao-yang Hao. **Utility Model Patent** (ZL 2023 2 2875376.4). 
+- An unmanned ship surface cleaning device. **Guan-cheng Zhou**, Chen Cheng, Yan-zhou Chen, Yu-hang Wei, Zhao-yang Hao. **Utility Model Patent** (ZL 2023 2 2875376.4).  2023.
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
