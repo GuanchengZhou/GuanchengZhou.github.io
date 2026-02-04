@@ -65,18 +65,18 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF)
+ [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://ieeexplore.ieee.org/abstract/document/11370256)
 
 **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng
 
-**IEEE Transactions on Multimedia (JCR Q1)**
+**IEEE Transactions on Multimedia**
 
 [**Code**](https://github.com/GuanchengZhou/FTD-LIIF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 <!-- - [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**.  -->
-- [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://www.researchsquare.com/article/rs-6345712/latest). Kai Ye, Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng. Under review.
+- [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://www.researchsquare.com/article/rs-6345712/latest). Kai Ye, Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng. **Nature Communications**, 2026.
 
 - [Efficient Multi-branch Segmentation Network for Situation Awareness in Autonomous Navigation](https://www.sciencedirect.com/science/article/pii/S0029801824010783). **Guan-Cheng Zhou**, Chen Cheng, Yan-zhou Chen. **Ocean Engineering (JCR Q1)** 302, 117741.
 
