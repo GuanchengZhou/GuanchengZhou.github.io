@@ -64,7 +64,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://ieeexplore.ieee.org/abstract/document/11370256)
