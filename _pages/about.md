@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) and [SII](https://www.sii.edu.cn/), advised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng/1) and Prof. [Xipeng Qiu](https://xpqiu.github.io/). I obtained my M.S. in [School of Mathematics and Statistics, Xi'an Jiaotong University](https://math.xjtu.edu.cn/).
+I am a first-year Ph.D. student at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) and [SII](https://www.sii.edu.cn/), advised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng/1) and Prof. [Xipeng Qiu](https://xpqiu.github.io/). I obtained my B.S. in [School of Mathematics and Statistics, Xi'an Jiaotong University](https://math.xjtu.edu.cn/).
 
 I am interested in mech. interp., AI4SCI and computer vision. 
 I used to intern at [MAPLE LAB](https://maple.lab.westlake.edu.cn/) advised by Prof. [Guojun Qi](http://maple-lab.net/gqi/).
