@@ -29,6 +29,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 
 # 🔥 News
+- *2026.03* *2026.01*: &nbsp;🎉🎉 One co-authored work “SpatialCOC: an integrative framework for spatial continuous mapping and cross-omics correction in spatial multi-omics data” is accepted by Nature Communications. 
 - *2026.01*: &nbsp;🎉🎉 One first author work “Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory” is accepted by ICLR 2026. 
 - *2025.08*: &nbsp;🎉🎉 One first author work “Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition” is accepted by TMM. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -59,6 +60,8 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 **ICLR**, 2026
 
+[**Code**](https://github.com/GuanchengZhou/Tucker-FNO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 </div>
 </div>
 
@@ -82,7 +85,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2026</div><img src='images/spatialcoc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://github.com/xjtu-omics/SpatialCOC)
+ [SpatialCOC: an integrative framework for spatial continuous mapping and cross-omics correction in spatial multi-omics data](https://www.nature.com/articles/s41467-026-71882-2)
 
 Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng, Kai Ye
 
