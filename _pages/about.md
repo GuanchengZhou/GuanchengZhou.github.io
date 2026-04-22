@@ -51,6 +51,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/main_pde9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,6 +66,18 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenMOSS Interpretability Posts</div><img src='images/post.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [Bridging the Attention Gap: Complete Replacement Models for Complete Circuit Tracing](https://interp.open-moss.com/posts/complete-replacement)
+
+Wentao Shu, Xuyang Ge, **Guancheng Zhou**, Junxuan Wang, Rui Lin, Zhaoxuan Song, Jiaxing Wu, Zhengfu He, Xipeng Qiu
+
+**OpenMOSS Interpretability Posts**, 2026
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
