@@ -67,7 +67,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenMOSS Interpretability Posts</div><img src='images/post.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenMOSS Interpretability Posts</div><img src='images/post.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [Bridging the Attention Gap: Complete Replacement Models for Complete Circuit Tracing](https://interp.open-moss.com/posts/complete-replacement)
