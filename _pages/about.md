@@ -67,18 +67,6 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenMOSS Interpretability Posts</div><img src='images/post.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- [Bridging the Attention Gap: Complete Replacement Models for Complete Circuit Tracing](https://interp.open-moss.com/posts/complete-replacement)
-
-Wentao Shu, Xuyang Ge, **Guancheng Zhou**, Junxuan Wang, Rui Lin, Zhaoxuan Song, Jiaxing Wu, Zhengfu He, Xipeng Qiu
-
-**OpenMOSS Interpretability Posts**, 2026
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/tmm_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,7 +80,6 @@ Wentao Shu, Xuyang Ge, **Guancheng Zhou**, Junxuan Wang, Rui Lin, Zhaoxuan Song,
 [**Code**](https://github.com/GuanchengZhou/FTD-LIIF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2026</div><img src='images/spatialcoc.png' alt="sym" width="100%"></div></div>
@@ -109,6 +96,17 @@ Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng, 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OpenMOSS Interpretability Posts</div><img src='images/post.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [Bridging the Attention Gap: Complete Replacement Models for Complete Circuit Tracing](https://interp.open-moss.com/posts/complete-replacement)
+
+Wentao Shu, Xuyang Ge, **Guancheng Zhou**, Junxuan Wang, Rui Lin, Zhaoxuan Song, Jiaxing Wu, Zhengfu He, Xipeng Qiu
+
+**OpenMOSS Interpretability Posts**, 2026
+
+</div>
+</div>
 
 <!-- - [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**.  -->
 <!-- - [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://www.researchsquare.com/article/rs-6345712/latest). Kai Ye, Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng. **Nature Communications**. 2026. -->
