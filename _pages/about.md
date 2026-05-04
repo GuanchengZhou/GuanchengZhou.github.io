@@ -29,9 +29,11 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 One co-authored work “SpatialCOC: an integrative framework for spatial continuous mapping and cross-omics correction in spatial multi-omics data” is accepted by Nature Communications. 
-- *2026.01*: &nbsp;🎉🎉 One first author work “Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory” is accepted by ICLR 2026. 
-- *2025.08*: &nbsp;🎉🎉 One first author work “Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition” is accepted by TMM. 
+- *2026.05*: &nbsp;🎉🎉 One co-authored work “Multivariate Neural Directional Total Variation” is accepted by **Pattern Recognition**.
+- *2026.05*: &nbsp;🎉🎉 One first author work “ Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle” is accepted by **ICML 2026 Spotlight**, which will be released soon.
+- *2026.03*: &nbsp;🎉🎉 One co-authored work “SpatialCOC: an integrative framework for spatial continuous mapping and cross-omics correction in spatial multi-omics data” is accepted by **Nature Communications**. 
+- *2026.01*: &nbsp;🎉🎉 One first author work “Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory” is accepted by **ICLR 2026**. 
+- *2025.08*: &nbsp;🎉🎉 One first author work “Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition” is accepted by **TMM**. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -110,6 +112,8 @@ Wentao Shu, Xuyang Ge, **Guancheng Zhou**, Junxuan Wang, Rui Lin, Zhaoxuan Song,
 
 <!-- - [Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition](https://github.com/GuanchengZhou/FTD-LIIF). **Guancheng Zhou**, Yisi Luo, Xile Zhao, Deyu Meng. **IEEE Transactions on Multimedia (JCR Q1)**.  -->
 <!-- - [SpaKnit: correlation subspace learning for integrating spatial multi-omics data](https://www.researchsquare.com/article/rs-6345712/latest). Kai Ye, Mingxuan Li, Peisen Sun, Yisi Luo, **Guancheng Zhou**, Xiaofei Yang, Deyu Meng. **Nature Communications**. 2026. -->
+
+- [Multivariate Neural Directional Total Variation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5276205). Zelin Zeng*, **Guancheng Zhou\*(Equal Distribution)**, Yisi Luo, Xi-Le Zhao, Qi Xie, Deyu Meng. **Pattern Recognition**.
 
 - [Efficient Multi-branch Segmentation Network for Situation Awareness in Autonomous Navigation](https://www.sciencedirect.com/science/article/pii/S0029801824010783). **Guan-Cheng Zhou**, Chen Cheng, Yan-zhou Chen. **Ocean Engineering (JCR Q1)** 302, 117741. 2024.
 
