@@ -30,7 +30,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 One co-authored work “Multivariate Neural Directional Total Variation” is accepted by **Pattern Recognition**.
-- *2026.05*: &nbsp;🎉🎉 One first author work “ Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle” is accepted by **ICML 2026 Spotlight**, which will be released soon.
+- *2026.05*: &nbsp;🎉🎉 One first author work “ Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle” is accepted by **ICML 2026 Spotlight**.
 - *2026.03*: &nbsp;🎉🎉 One co-authored work “SpatialCOC: an integrative framework for spatial continuous mapping and cross-omics correction in spatial multi-omics data” is accepted by **Nature Communications**. 
 - *2026.01*: &nbsp;🎉🎉 One first author work “Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory” is accepted by **ICLR 2026**. 
 - *2025.08*: &nbsp;🎉🎉 One first author work “Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition” is accepted by **TMM**. 
@@ -53,6 +53,20 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 spotlight</div><img src='images/energydps.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle](https://arxiv.org/abs/2605.17504)
+
+**Guancheng Zhou**, Yisi Luo, Zhengfu He, Zhenyu Jin, Xuyang Ge, Wentao Shu, Deyu Meng, Xipeng Qiu
+
+**ICML spotlight**, 2026
+
+[**Code**](https://github.com/GuanchengZhou/Tucker-FNO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/main_pde9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
