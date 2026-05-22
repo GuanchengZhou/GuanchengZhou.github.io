@@ -63,7 +63,7 @@ I used to research Computer Vision under the guidance of Prof. [Zejian Yuan](htt
 
 **ICML spotlight**, 2026
 
-[**Code**](https://github.com/GuanchengZhou/Tucker-FNO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/SII-ZhouGC/EnergyDPS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
